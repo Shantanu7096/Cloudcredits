@@ -1,7 +1,3 @@
-Here’s a detailed **README.md** file for your **Handwritten Digit Recognition** project using **CNN and the MNIST dataset**! 🚀  
-
----
-
 # ✍️ Handwritten Digit Recognition  
 
 ## 📌 Project Overview  
