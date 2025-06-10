@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load dataset manually (Ensure you have downloaded Boston Housing Dataset)
-df = pd.read_csv("D:\\GitHub\\cloudcredits-\\Project 1\\boston.csv")  
+df = pd.read_csv("D:\\GitHub\\cloudcredits\\Project 1\\boston.csv")  
 
 # Define features and target variable
 X = df.drop(columns=['MEDV'])  # MEDV is the target (house price)
