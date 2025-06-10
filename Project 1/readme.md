@@ -1,7 +1,3 @@
-Here’s a detailed **README.md** file for your project on **Predicting House Prices** using Linear Regression. You can modify it as needed! 🚀  
-
----
-
 # 🏡 Predicting House Prices  
 
 ## 📌 Project Overview  
