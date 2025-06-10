@@ -7,7 +7,7 @@ from sklearn.svm import LinearSVC
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 
 # Load Dataset with File Check
-file_path = r"D:\GitHub\cloudcredits-\Project 7\email.csv"
+file_path = r"D:\GitHub\cloudcredits\Project 7\email.csv"
 
 if os.path.exists(file_path):
     df = pd.read_csv(file_path, encoding='latin-1')
