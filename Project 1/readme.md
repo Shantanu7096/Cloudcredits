@@ -75,6 +75,6 @@ python house_price_prediction.py
 
 ## 🙌 Credits  
 
-- **Developer:** [Your Name]  
+- **Developer:**Shantanu
 - **Dataset:** Boston Housing Dataset  
 - **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
