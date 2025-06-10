@@ -7,7 +7,7 @@ from sklearn.impute import SimpleImputer
 
 # u.data format: user_id, item_id, rating, timestamp
 columns = ['user_id', 'movie_id', 'rating', 'timestamp']
-ratings = pd.read_csv("D:\\GitHub\\cloudcredits-\\Project 5\\ml-100k\\rating.csv", sep='\t', names=columns)
+ratings = pd.read_csv("D:\\GitHub\\cloudcredits\\Project 5\\rating.csv", sep='\t', names=columns)
 
 # Optional: Load movie titles (if you have u.item)
 # movie_titles = pd.read_csv('u.item', sep='|', encoding='latin-1', header=None, usecols=[0, 1], names=['movie_id', 'title'])
