@@ -1,8 +1,3 @@
-
-Here’s a well-structured **README.md** file for your **Iris Flower Classification** project. You can modify or expand it based on your needs! 🚀  
-
----
-
 # 🌺 Iris Flower Classification  
 
 ## 📌 Project Overview  
