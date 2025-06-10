@@ -71,6 +71,6 @@ python titanic_survival_prediction.py
 
 ## 🙌 Credits  
 
-- **Developer:** [Your Name]  
+- **Developer:** Shantanu 
 - **Dataset:** Titanic Disaster Dataset  
 - **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
