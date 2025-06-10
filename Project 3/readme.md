@@ -71,6 +71,6 @@ python digit_recognition.py
 
 ## 🙌 Credits  
 
-- **Developer:** [Your Name]  
+- **Developer:** Shantanu 
 - **Dataset:** MNIST Handwritten Digit Dataset  
 - **Tools:** Python, TensorFlow, Keras, NumPy, Matplotlib  
