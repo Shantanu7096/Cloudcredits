@@ -72,6 +72,6 @@ python iris_classification.py
 
 ## 🙌 Credits  
 
-- **Developer:** [Your Name]  
+- **Developer:** Shantanu
 - **Dataset:** Iris Dataset (UCI Machine Learning Repository)  
 - **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
