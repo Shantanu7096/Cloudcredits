@@ -62,6 +62,12 @@ python iris_classification.py
 
 ---
 
+### Screenshot - Output
+![image](https://github.com/user-attachments/assets/f4e3c91e-ce12-44ec-a90c-f54c80699f8f)
+
+```
+```
+
 ## 🚀 Future Improvements  
 
 - Test with **Random Forest** or **SVM** for improved accuracy.  
