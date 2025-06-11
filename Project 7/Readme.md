@@ -62,6 +62,10 @@ This will train and evaluate the model, showing classification performance.
 
 ---
 
+## Screenshot - Output
+![image](https://github.com/user-attachments/assets/6b9b4359-f211-49c6-9515-618122e69e0d)
+
+
 ## 🚀 Future Enhancements  
 
 - Experiment with **Deep Learning models** (LSTM, BERT) for improved accuracy  
