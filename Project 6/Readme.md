@@ -52,7 +52,7 @@ pip install numpy pandas matplotlib scikit-learn tensorflow keras nltk
 ```bash
 python sentiment_analysis.py
 ```
-##Screenshot - Output
+## Screenshot - Output
 ```
 ![image](https://github.com/user-attachments/assets/c20c92d5-fe94-4bb5-a9ea-51c838580c73)
 
