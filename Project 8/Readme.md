@@ -62,6 +62,11 @@ python diabetes_prediction.py
 
 ---
 
+## Screenshot - Output
+
+![image](https://github.com/user-attachments/assets/0f9dac29-4cdf-41f0-b8bf-0efc68cf6ec6)
+
+
 ## 🚀 Future Improvements  
 - Use **GridSearchCV** to fine-tune KNN `k` values  
 - Experiment with **SVM, Random Forest** or **XGBoost**  
