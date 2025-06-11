@@ -57,6 +57,12 @@ python movie_recommender.py
 
 ---
 
+## Screenshot - Output
+![image](https://github.com/user-attachments/assets/5a59e5c8-7b38-47ae-976c-89d0597a32a1)
+
+```
+```
+
 ## 🚀 Future Improvements  
 
 - Test with **Deep Learning-based** recommendation models.  
