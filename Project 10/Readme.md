@@ -66,6 +66,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```bash
 python breast_cancer_prediction.py
 ```
+---
+## Screenshot - Output
+
+![image](https://github.com/user-attachments/assets/b412d01b-735f-4149-a0be-33e013f3bd45)
 
 ---
 
