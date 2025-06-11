@@ -64,7 +64,12 @@ python house_price_prediction.py
 - The final graph will show **actual vs predicted house prices**.  
 
 ---
+### Screenshot - Output
 
+![image](https://github.com/user-attachments/assets/0a9d775c-4a00-45e6-8028-02355d1c705f)
+
+```
+```
 ## 🚀 Future Improvements  
 
 - Experiment with **Ridge Regression** or **Lasso Regression** for better regularization.  
