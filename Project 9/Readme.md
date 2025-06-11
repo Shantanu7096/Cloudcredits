@@ -69,6 +69,11 @@ python stock_price_prediction.py
 
 ---
 
+## Screenshot - Output
+
+![image](https://github.com/user-attachments/assets/75af2c8a-f992-4397-adf8-08fc5560df22)
+
+----
 ## 🚀 Future Improvements  
 - Incorporate **technical indicators** like RSI, MACD  
 - Try **Bidirectional LSTM** or **GRU** networks  
