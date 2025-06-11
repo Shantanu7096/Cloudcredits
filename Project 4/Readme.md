@@ -61,6 +61,12 @@ python titanic_survival_prediction.py
 
 ---
 
+## Screenshot - Output
+```
+![image](https://github.com/user-attachments/assets/75ea10cd-1a68-4ad0-a33b-3e262f8b3acf)
+```
+
+
 ## 🚀 Future Improvements  
 
 - Test with **Gradient Boosting** or **XGBoost** models.  
