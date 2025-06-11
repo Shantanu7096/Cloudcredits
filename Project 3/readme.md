@@ -60,6 +60,12 @@ python digit_recognition.py
 - This will train the CNN model and **evaluate digit classification accuracy**.  
 
 ---
+## Screenshot - Output
+
+![image](https://github.com/user-attachments/assets/d19a4d3d-4cf2-451d-905d-4e34c1d1f3e9)
+
+```
+```
 
 ## 🚀 Future Improvements  
 
